@@ -1,5 +1,5 @@
-# fp_2022_spring_lab1_task2_GFF
-Geocoding-Folium-Films (GFF) is a simple Python program that allows you to find movies shot nearby in a given year. Also it's capable of showing HeatMap of film shooting spots.
+# Movie Locator
+Movie Locator is a simple Python program that allows you to find movies shot nearby in a given year. Also it's capable of showing HeatMap of film shooting spots.
 
 Using this application you can find interesting places to visit and new films to watch.
 ## Installation
